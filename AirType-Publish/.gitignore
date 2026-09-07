@@ -1,0 +1,23 @@
+# VS / dotnet
+**/bin/
+**/obj/
+*.user
+.vs/
+
+# Android / Gradle
+mobile/android/.gradle/
+mobile/android/local.properties
+mobile/android/**/build/
+mobile/android/.cxx/
+*.iml
+.idea/
+
+# 出版物产物：大型二进制（可改用 GitHub Releases 分发）
+dist/
+
+# 私用 agent 技能 / 本地开发文件（不属于本项目源码）
+.agents/
+skills-lock.json
+
+.DS_Store
+Thumbs.db
