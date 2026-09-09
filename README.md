@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="airtype-poster" src="https://github.com/user-attachments/assets/f38c286a-be22-43c6-aa3f-7dc374ad68c5" />
 [README.md](https://github.com/user-attachments/files/32011663/README.md)
 # AirType — 手机语音/文字一键上屏电脑光标处
 
