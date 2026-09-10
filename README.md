@@ -1,6 +1,6 @@
 <img width="1280" height="640" alt="airtype-poster" src="https://github.com/user-attachments/assets/f38c286a-be22-43c6-aa3f-7dc374ad68c5" />
-[README.md](https://github.com/user-attachments/files/32011663/README.md)
-# AirType — 手机语音/文字一键上屏电脑光标处
+
+AirType — 手机语音/文字一键上屏电脑光标处
 
 > 这是对 **phmic-1**（老版本 Phmic）的现代化重构与新版本：手机端与电脑端处于同一局域网（含"电脑连手机热点"），
 > 在手机输入框用**手机自带语音输入法**说完话，点发送后文字立即出现在电脑**当前光标处**。无需注册账号、无需服务器、语音不出手机。
